@@ -1,0 +1,16 @@
+.DS_Store
+obj_srf06-cc26xx/
+contiki-srf06-cc26xx.a
+
+trace_together*
+!trace_together.c
+!trace_together_for_cooja.c
+
+experiment*
+!experiment.c
+
+obj_sky
+contiki-sky.a
+contiki-sky.map
+symbols.c
+symbols.h
